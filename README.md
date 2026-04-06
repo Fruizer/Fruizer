@@ -18,11 +18,7 @@ I build tools that actually make sense for students and creators. Currently obse
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📈 GitHub Stats
+### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fruizer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-*"Designing the UI first saves you from CSS hell later."*
+![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fruizer&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fruizer&layout=compact&theme=tokyonight&hide_border=true)
