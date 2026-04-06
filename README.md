@@ -4,8 +4,8 @@ I build tools that actually make sense for students and creators. Currently obse
 
 ### What I'm Building Right Now
 
-*   📱 **ReelNotes:** A "Doomscroll" study app that uses AI and the Web Speech API to turn static notes into short-form, highly engaging video reels. (HTML, CSS, JS, Gemini API)
-*   🍃 **GreenCode Analyzer:** My CS Thesis project. A tool designed to analyze Python code for energy efficiency and environmental impact.
+*    **ReelNotes:** A "Doomscroll" study app that uses AI and the Web Speech API to turn static notes into short-form, highly engaging video reels. (HTML, CSS, JS, Gemini API)
+*    **GreenCode Analyzer:** My CS Thesis project. A tool designed to analyze Python code for energy efficiency and environmental impact.
 
 ### Tech Stack & Tools
 
