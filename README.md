@@ -36,12 +36,7 @@ Currently obsessed with bridging the gap between heavy backend logic and highly 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+----
 
-
-<br/>
-  </a>
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lorenzo-gilbert-flores-b9a06a373/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<bir>
 </div>
