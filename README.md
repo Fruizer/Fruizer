@@ -1,5 +1,5 @@
 # Lorenzo Flores
-**Software Engineer | UI/UX Obsessive | Creative Technologist**
+**Aspiring Software Engineer**
 
 I am a Computer Science student specializing in Software Engineering at the FEU Institute of Technology, and the former Media Director for FEU Tech ACM. I build tools that actually make sense for students, gamers, and creators.
 
@@ -7,22 +7,22 @@ Currently obsessed with bridging the gap between heavy backend logic and highly 
 
 ---
 
-### 🕹️ Featured Projects
+### Featured Projects
 
 *   **ReelNotes**  
     A *"Doomscroll"* study engine. Uses Gemini AI, PDF extraction engines, and the Web Speech API to turn static college notes into short-form, highly engaging video reels. Built for high-retention studying.  
-    📦 *Stack: HTML, CSS, JS, Supabase, Gemini API*
+     *Stack: HTML, CSS, JS, Supabase, Gemini API*
 
 *   **LGF Compiler OS**  
     A *gamified, 8-bit retro-arcade IDE*. A custom-built compiler pipeline featuring Lexical, Syntax, and Semantic analysis for a proprietary language, wrapped in a tactile, Gacha-style cinematic interface.  
-    📦 *Stack: Python, Tkinter, JSON*
+     *Stack: Python, Tkinter, JSON*
 
 *   **GreenCode Analyzer (Thesis Project)**  
     *Sustainable software engineering.* Developed alongside the GILBERTO R&D group, this tool uses an Instruction-Level Energy Model (ILEM) to analyze and estimate the energy efficiency and environmental impact of Python scripts.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Tech Stack & Arsenal
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/python-35709F?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
